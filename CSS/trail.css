@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+}
+.top{
+    background-color:Red;
+    width:100px;
+    height:100px;
+    display:inline-block;
+   position:relative;
+
+}
+.middle{
+    background-color:blue;
+    width:100px;
+    height:100px;
+    display:inline-block;
+    position:relative;
+}
+.bottom{
+    background-color:yellow;
+    width:100px;
+    height:100px;
+    display:inline-block;
+    position:relative;
+
+}
